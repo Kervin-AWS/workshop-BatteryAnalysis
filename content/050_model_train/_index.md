@@ -1,11 +1,8 @@
 ---
 title: "模型训练"
 weight: 50
-chapter: true
 draft: false
 ---
-
-# 训练您的模型    
 
 本章节将逐步带领您模型训练。
 
@@ -15,7 +12,7 @@ draft: false
 
 23.	导入模型函数，加载训练模型。
 
-    本实验神经网络的模型框架位于 trainer/ 文件夹中
+    本实验神经网络的模型框架位于 **trainer/** 文件夹中
      ![image](/images/pngs/026.png)
 
 24.	启动训练脚本

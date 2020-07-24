@@ -6,13 +6,12 @@ weight: 20
 ---
 <div style="text-align: center"><h2></h2></div>
 
-# 从S3获取导入数据
-
 5.	从github 拉取源码
-将 https://github.com/Kervin-AWS/Auto-Immersion-Day-Lab2.git复制到下面的框中, 然后点击CLONE
+    
+    将 `https://github.com/Kervin-AWS/Auto-Immersion-Day-Lab2.git` 复制到下面的框中, 然后点击**CLONE**
     ![image](/images/pngs/008.png)
 
-6.	打开data_download_script.ipynb,点击右上角的kernel选择模块，选择conda_tensorflow_p36
+6.	打开data_download_script.ipynb,点击右上角的**kernel**选择模块，选择**conda_tensorflow_p36**
      ![image](/images/pngs/009.png)
 
 7.	逐一选中代码框，然后点击上方的运行按钮

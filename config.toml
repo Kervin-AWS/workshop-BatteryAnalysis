@@ -12,7 +12,7 @@ relativeURLs = true
 hrefTargetBlank = true
 
 [params]
-editURL = "https://github.com/aws-samples/eks-workshop/edit/main/content/"
+editURL = "https://github.com/Kervin-AWS/workshop-BatteryAnalysis/edit/main/content/"
 themeVariant = "mine"
 showVisitedLinks = false
 author = "Brent Langston"
@@ -22,7 +22,7 @@ disableAssetsBusting = false
 disableLanguageSwitchingButton = true
 disableShortcutsTitle=false
 disableInlineCopyToClipBoard = true
-ghrepo = "https://github.com/aws-samples/eks-workshop/"
+ghrepo = "https://github.com/Kervin-AWS/workshop-BatteryAnalysis/"
 branch = "main"
 template_bucket = "eksworkshop.com"
 pygmentsUseClasses = true

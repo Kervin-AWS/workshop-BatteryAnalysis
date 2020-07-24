@@ -1,13 +1,11 @@
 ---
 title: "数据预处理"
 weight: 40
-chapter: true
 draft: false
----
-
-# 数据预处理     
+--- 
 
 本章节将逐步带领您实现数据预处理。
+
 
 17. 打开data_preprocessing.ipynb，并运行函数导入cell
     ![image](/images/pngs/021.png)
